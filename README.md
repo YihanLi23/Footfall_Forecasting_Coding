@@ -4,7 +4,7 @@
 
 This research aims to develop a predictive model for forecasting pedestrian footfall in London’s retail areas, utilizing the XGBoost algorithm. The study integrates datasets from SmartStreetSensor Footfall Data, weather conditions, and Transport for London (TfL) transit data to evaluate how these factors influence pedestrian footfall.
 
-### Research Problem
+## Research Problem
 
 The central research question addressed in this study is: How accurately can pedestrian footfall in London’s retail areas be predicted by integrating environmental and transport data? The study seeks to determine the impact of weather and public transportation on pedestrian flow and identify the key factors that most significantly influence foot traffic.
 
