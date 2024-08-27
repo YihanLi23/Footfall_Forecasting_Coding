@@ -21,12 +21,12 @@ Due to the proprietary nature and size of some datasets, they are not included i
 
 | Data Name                       | Source Name                         | Source Link                                                                                                                                            |
 |---------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SmartStreetSensor Footfall Data | Consumer Data Research Centre (CDRC) | [Link](https://data.cdrc.ac.uk/dataset/local-data-company-smartstreetsensor-footfall-data-%E2%80%93-research-aggregated-data)                          |
-| Retail Centre Boundaries        | Consumer Data Research Centre (CDRC) | [Link](https://data.cdrc.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)                                                                   |
-| Transportation Data             | Transport for London (TfL)           | [Link](http://crowding.data.tfl.gov.uk/) (File: ByQhrEntryExit_2018.xlsx)                                                                              |
-| Weather Data                    | Meteostat                           | [Link](https://dev.meteostat.net/python/)                                                                                                              |
-| Statistical GIS Boundary Files for London | Greater London Authority   | [Link](https://www.data.gov.uk/dataset/6cdebf5d-c69b-4480-8c9c-53ab8a816b9d/statistical-gis-boundary-files-for-london)                                 |
-| London Stations Coordinates      | Doogal                              | [Link](https://www.doogal.co.uk/london_stations#google_vignette)                                                                                       |
+| SmartStreetSensor Footfall Data | Consumer Data Research Centre (CDRC) | [footfall-data-research-aggregated-data](https://data.cdrc.ac.uk/dataset/local-data-company-smartstreetsensor-footfall-data-%E2%80%93-research-aggregated-data)                          |
+| Retail Centre Boundaries        | Consumer Data Research Centre (CDRC) | [retail-centre-boundaries](https://data.cdrc.ac.uk/dataset/retail-centre-boundaries-and-open-indicators)                                                                   |
+| Transportation Data             | Transport for London (TfL)           | [tfl.gov.uk](http://crowding.data.tfl.gov.uk/) (File: ByQhrEntryExit_2018.xlsx)                                                                              |
+| Weather Data                    | Meteostat                           | [meteostat](https://dev.meteostat.net/python/)                                                                                                              |
+| Statistical GIS Boundary Files for London | Greater London Authority   | [statistical-gis-boundary](https://www.data.gov.uk/dataset/6cdebf5d-c69b-4480-8c9c-53ab8a816b9d/statistical-gis-boundary-files-for-london)                                 |
+| London Stations Coordinates      | Doogal                              | [[[Link]](https://www.doogal.co.uk/london_stations#google_vignette)]                                                                                      |
 Note: The SmartStreetSensor Footfall Datasets are not publicly available and require access permissions through CDRC.
 
 ## Research Approach and Methodology
