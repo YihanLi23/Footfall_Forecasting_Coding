@@ -26,7 +26,9 @@ Due to the proprietary nature and size of some datasets, they are not included i
 | Transportation Data             | Transport for London (TfL)           | [tfl.gov.uk](http://crowding.data.tfl.gov.uk/) (File: ByQhrEntryExit_2018.xlsx)                                                                              |
 | Weather Data                    | Meteostat                           | [meteostat](https://dev.meteostat.net/python/)                                                                                                              |
 | Statistical GIS Boundary Files for London | Greater London Authority   | [statistical-gis-boundary](https://www.data.gov.uk/dataset/6cdebf5d-c69b-4480-8c9c-53ab8a816b9d/statistical-gis-boundary-files-for-london)                                 |
-| London Stations Coordinates      | Doogal                              | [[[Link]](https://www.doogal.co.uk/london_stations#google_vignette)]                                                                                      |
+| London Stations Coordinates      | Doogal                              | [london_stations Coordinates](https://www.doogal.co.uk/london_stations#google_vignette)                                                                                       |
+
+
 Note: The SmartStreetSensor Footfall Datasets are not publicly available and require access permissions through CDRC.
 
 ## Research Approach and Methodology
