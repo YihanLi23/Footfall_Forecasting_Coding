@@ -8,7 +8,7 @@ This research aims to develop a predictive model for forecasting pedestrian foot
 
 The central research question addressed in this study is: How accurately can pedestrian footfall in London’s retail areas be predicted by integrating environmental and transport data? The study seeks to determine the impact of weather and public transportation on pedestrian flow and identify the key factors that most significantly influence foot traffic.
 
-## Research Year and Location
+## Research Year and Research Area
 
 This study focuses on the year 2018 in Greater London, United Kingdom. 
 
