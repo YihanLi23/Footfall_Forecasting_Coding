@@ -49,23 +49,11 @@ Mapped sensor locations to visually identify areas with high sensor density. Cal
 
 ### 4. Initial Modeling
 
-First, conducted an initial analysis using only footfall data for all devices in the Highest Density Area to establish a baseline predictive model.
-
-Then, integrated temperature data with hourly aggregation, to evaluate its impact on footfall predictions.
-
-Similarly, added precipitation data with hourly aggregation and analyzed its influence on the predictive accuracy.
+First, conducted an initial analysis using only footfall data for all devices in the Highest Density Area to establish a baseline predictive model. Then, integrated temperature data with hourly aggregation, to evaluate its impact on footfall predictions. Similarly, added precipitation data with hourly aggregation and analyzed its influence on the predictive accuracy.
 
 ### 5. Further Modeling and Case Study
 
-First, after doing calculations, we selected Holborn station and its sensors (Device 1018 and Device 1833) for in-depth analysis.
-
-Second, assessed how each device performed using only footfall data.
-
-Third, examined the impact of temperature data on the predictions, comparing hourly aggregated and non-aggregated data.
-
-Fourth, added both temperature and precipitation, again comparing the effects of aggregation.
-
-Finally, incorporated TfL transit data into the model to further refine predictions, comparing the effects of aggregation and analyzing the combined effects of factors.
+First, after doing calculations, we selected Holborn station and its sensors (Device 1018 and Device 1833) for in-depth analysis. Second, assessed how each device performed using only footfall data. Third, examined the impact of temperature data on the predictions, comparing hourly aggregated and non-aggregated data. Fourth, added both temperature and precipitation, again comparing the effects of aggregation. Finally, incorporated TfL transit data into the model to further refine predictions, comparing the effects of aggregation and analyzing the combined effects of factors.
 
 ### 6. Results and Comparison
 
